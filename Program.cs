@@ -1,4 +1,4 @@
-namespace TestUmbraco
+namespace UmbracoDemo
 {
     public class Program
     {
